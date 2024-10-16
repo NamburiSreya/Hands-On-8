@@ -46,3 +46,11 @@ if __name__ == "__main__":
     print("Is empty?", "Yes" if stack.is_empty() else "No")
     print("Popped:", stack.pop())
     print("Is empty?", "Yes" if stack.is_empty() else "No")
+
+##output
+Top element: 30
+Popped: 30
+Popped: 20
+Is empty? No
+Popped: 10
+Is empty? Yes
