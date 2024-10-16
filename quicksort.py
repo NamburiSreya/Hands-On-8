@@ -37,3 +37,7 @@ if __name__ == "__main__":
     print("Array:", numbers)
     result = find_kth_smallest(numbers, 0, array_size - 1, k - 1)
     print(f"The {k}th smallest element is: {result}")
+
+##output
+Array: [3, 2, 1, 5, 6, 4]
+The 3th smallest element is: 3
