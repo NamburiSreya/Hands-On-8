@@ -1,4 +1,4 @@
-# quickselect.py
+# quicksort.py
 import random
 
 ARRAY_MAX = 100
